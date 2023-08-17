@@ -39,12 +39,12 @@
 
 ### FrontEnd
 
-## 📄 BackEnd-Architecture
+## 📄 Architecture
+![image](https://github.com/nengtul/.github/assets/101981639/5ae730a3-d1f5-40fc-bfa7-6b30120bc2e9)
 
-## 📄 FrontEnd-Architecture
 
 ## 📑 [ERD](https://www.erdcloud.com/d/73ggNMAvHyjBvBshE)
-![image](https://github.com/nengtul/.github/assets/101981639/0b28f43e-1640-4d8d-be1d-52a266211e4b)
+![image](https://github.com/nengtul/.github/assets/101981639/9e0bd18f-629a-48dc-985e-e710de70affe)
 
 ## 📑 [API명세서](https://www.notion.so/API-ab731bbd93684b858bd055a734e0017b)
 
