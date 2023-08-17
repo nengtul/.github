@@ -45,10 +45,16 @@
 
 ### FrontEnd
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor="/></a>
+<img src="https://img.shields.io/badge/ReactRouterDom-000000?style=flat-square&logo=React&logoColor="/></a>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor="/></a>
+<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor="/></a>
+
+
 <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor="/></a>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor="/></a>
-<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor="/></a>
+<img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=Vite&logoColor="/></a>
+<img src="https://img.shields.io/badge/StyledComponents-000000?style=flat-square&logo=StyledComponents&logoColor="/></a>
+
 
 ## 📄 Architecture
 ![Architecture](https://github.com/zxcv5595/RaiseMeUp/assets/109198584/89329bf4-8860-4935-af25-92c72fc96aaa)
